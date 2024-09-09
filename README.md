@@ -1,3 +1,5 @@
+![NHANES Banner](https://github.com/user-attachments/assets/1a3a6e9c-8183-4290-b7d1-c653e8cf5d21)
+
 # NHANES k-means Clustering Analysis
 
 To view the entire project, open the full notebook [HERE](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
