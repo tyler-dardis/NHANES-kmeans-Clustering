@@ -10,7 +10,7 @@ To view the entire project, open the full notebook [here](https://github.com/tyl
 
 **Model Type:** k-means clustering (unsupervised machine learning)
 
-**Tools/Libraries:** Pandas, scikit-Learn, Matplotlib, Seaborn
+**Tools/Libraries:** Pandas, Scikit-Learn, Matplotlib, Seaborn
 <br><br>
 
 ## Result
