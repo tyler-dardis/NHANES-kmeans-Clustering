@@ -13,7 +13,7 @@ To view the entire project, open the full notebook [HERE](https://github.com/tyl
 
 ## Result
 
-As an example, below is a visualization of the clusters defined by my model, using age, education level, and household income as features.
+As an example, below is a visualization of the clusters defined by my model, using *age*, *education level*, and *household income* as features.
 
 ![k-means clustering pairplot](https://github.com/user-attachments/assets/2ca1f213-e004-4796-b66e-ca6f8ad33cb1)
 
