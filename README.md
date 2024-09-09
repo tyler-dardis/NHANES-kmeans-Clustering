@@ -21,4 +21,4 @@ As an example, below is a visualization of the clusters defined by my model, usi
 
 ![k-means clustering 3D plot](https://github.com/user-attachments/assets/e737be49-30c1-4c74-b21d-3f8ca0807e48)
 
-This is one of several clustering models. To view them all, see the full notebook [here](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
+This is one of several clustering models that I created for this project. To view them all, see the full notebook [here](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
