@@ -4,13 +4,13 @@
 
 To view the entire project, open the full notebook [here](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
 
-<u>Objective</u>: Identify clusters of survey respondents in the NHANES dataset.
+**Objective:** Identify clusters of survey respondents in the NHANES dataset.
 
-<u>Data</u>: NHANES 2017-March 2020 Pre-Pandemic Questionnaire Data
+**Data:** NHANES 2017-March 2020 Pre-Pandemic Questionnaire Data
 
-<u>Model Type</u>: k-means clustering (unsupervised machine learning)
+**Model Type:** k-means clustering (unsupervised machine learning)
 
-<u>Tools/Libraries</u>: Pandas, scikit-Learn, Matplotlib, Seaborn
+**Tools/Libraries:** Pandas, scikit-Learn, Matplotlib, Seaborn
 <br><br>
 
 ## Result
