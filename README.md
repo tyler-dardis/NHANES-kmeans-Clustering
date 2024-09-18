@@ -2,7 +2,7 @@
 
 # NHANES k-means Clustering Analysis
 
-To view the entire project, open the full notebook [here](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
+## To view the entire project, open the full notebook [here](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
 
 **Objective:** Identify clusters of survey respondents in the NHANES dataset.
 
