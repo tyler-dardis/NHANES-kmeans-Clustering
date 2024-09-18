@@ -3,6 +3,7 @@
 # NHANES k-means Clustering Analysis
 
 ## To view the entire project, open the full notebook [here](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
+<br>
 
 **Objective:** Identify clusters of survey respondents in the NHANES dataset.
 
@@ -11,14 +12,8 @@
 **Model Type:** k-means clustering (unsupervised machine learning)
 
 **Tools/Libraries:** Pandas, Scikit-Learn, Matplotlib, Seaborn
-<br><br>
+<br>
 
-## Result
+## Summary
 
-As an example, below is a visualization of the clusters defined by my model, using *age*, *education*, and *poverty ratio (income expressed as a ratio to poverty line)* as features.
-
-![k-means clustering pairplot](https://github.com/user-attachments/assets/2ca1f213-e004-4796-b66e-ca6f8ad33cb1)
-
-![k-means clustering 3D plot](https://github.com/user-attachments/assets/e737be49-30c1-4c74-b21d-3f8ca0807e48)
-
-This is one of several clustering models that I created for this project. To view them all, see the full notebook [here](https://github.com/tyler-dardis/NHANES-kmeans-Clustering/blob/main/NHANES_k_means_Clustering.ipynb).
+For this unsupervised machine learning project, I built a k-means model that clusters individuals based on medical and demographic data. The NHANES is a great data source for this because it is publicly available and captures many aspects of survey participants' health. This includes demographics, physical exam and blood test results, dietary observations, and lifestyle questionnaires. This dataset also works well with a k-means model because much of the data consists of continuous numeric values, and many of the categorical variables are reported as numeric values with an ordinal logic.
